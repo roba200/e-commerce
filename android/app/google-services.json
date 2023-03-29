@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20175498883",
+    "project_id": "tech-torrent",
+    "storage_bucket": "tech-torrent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20175498883:android:9c3da177d291c14c0035b6",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20175498883-ndt10j6h6hhige7giva29jv5d7au4bs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9UO2oL8ytxsMYHl3zmp4EkQDJZZ6THGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20175498883-ndt10j6h6hhige7giva29jv5d7au4bs7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
